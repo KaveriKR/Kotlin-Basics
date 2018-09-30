@@ -14,6 +14,5 @@ How are functions implements in Kotlin? , How are field  declarations known as p
 
 What are we going to implement ??
 
-Screenshots: 
-<img src="https://github.com/KaveriKR/Kotlin-Basics/blob/master/Screenshot_20180930-131717.png" alt="First Page" width="200" height="300">
-<img src="https://github.com/KaveriKR/Kotlin-Basics/blob/master/Screenshot_20180930-131725.png" alt="Second Page" width="200" height="300">
+<img src="https://github.com/KaveriKR/Kotlin-Basics/blob/master/Screenshot_20180930-131717.png" alt="First Page" width="200" height="400">
+<img src="https://github.com/KaveriKR/Kotlin-Basics/blob/master/Screenshot_20180930-131725.png" alt="Second Page" width="200" height="400">
