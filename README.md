@@ -12,3 +12,8 @@ It also includes,
 
 How are functions implements in Kotlin? , How are field  declarations known as properties in Kotlin  done? and start using the Kotlin way of interacting with view and their methods.
 
+What are we going to implement ??
+
+Inline-style: 
+![alt text](Kotlin-Basics/Screenshot_20180930-131717.png )
+
