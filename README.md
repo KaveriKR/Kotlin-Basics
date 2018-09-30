@@ -15,5 +15,5 @@ How are functions implements in Kotlin? , How are field  declarations known as p
 What are we going to implement ??
 
 Inline-style: 
-![alt text](Kotlin-Basics/Screenshot_20180930-131717.png )
+![First Page](https://github.com/KaveriKR/Kotlin-Basics/blob/master/Screenshot_20180930-131717.png )
 
